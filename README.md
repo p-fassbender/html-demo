@@ -1,5 +1,5 @@
-# CSS Properties Demo
-An exploration of various css properties from beginner to intermediate level concepts.
+# HTML Demo
+An exploration of various html tags, their properties, and how to use them.
 
 ## Table of Contents
 - [Introduction](#usage)
