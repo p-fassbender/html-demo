@@ -1,14 +1,14 @@
 # HTML Demo
-An exploration of various html tags, their properties, and how to use them.
+An exploration of various HTML tags, their properties, and how to use them.
 
 ## Table of Contents
-- [Introduction](#usage)
+- [Introduction](#introduction)
 - [Installation](#installation)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Introduction
-This project is focused on learning and understanding many different html tags. Topics covered include:
+This project is focused on learning and understanding many different HTML tags. Topics covered include:
 - html, head, and body tags
 - Headings
 - Paragraph, Line Break, and Horizontal Rule
